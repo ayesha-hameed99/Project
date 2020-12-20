@@ -22,5 +22,8 @@ public class Project12 {
     public void sum(){
         System.out.println("i am function of sum");
     }
-    
+    public void even(int a){
+      
+    if(a%2==0){
+    System.out.println("Even");}}
 }
