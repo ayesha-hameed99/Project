@@ -16,6 +16,11 @@ public class Project12 {
      */
     public static void main(String[] args) {
      System.out.println("Ayesha");   // TODO code application logic here
+        
+    }
+    
+    public void sum(){
+        System.out.println("i am function of sum");
     }
     
 }
